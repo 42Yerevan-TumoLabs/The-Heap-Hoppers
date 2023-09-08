@@ -3,7 +3,7 @@
 |  Nº  | Points | Project | [akazarya](https://profile.intra.42.fr/users/akazarya) | [vagevorg](https://profile.intra.42.fr/users/vagevorg) | [arakhurs](https://profile.intra.42.fr/users/arakhurs) | [tyenokya](https://profile.intra.42.fr/users/tyenokya) | [armartir](https://profile.intra.42.fr/users/armartir) | [mikarzum](https://profile.intra.42.fr/users/mikarzum) | [apanikov](https://profile.intra.42.fr/users/apanikov) | [vacsargs](https://profile.intra.42.fr/users/vacsargs) | [sbalasho](https://profile.intra.42.fr/users/sbalasho) | [vhovhann](https://profile.intra.42.fr/users/vhovhann) | [anmanuky](https://profile.intra.42.fr/users/anmanuky) | [grmartir](https://profile.intra.42.fr/users/grmartir) |
 | :--: | :--: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | ⏰ | For | Hours per week |  |  |  |  |  |  |  |  |  |  |  | |
-| 👔 | House | Roles | 🗣Code Explainer | 🗣Code Explainer | ❌ | 👀 Evaluator | ⚜️ Leader | ☎️ Communicator | 😃 | 😃 | ❌ | 😃 | 📣 Reporter | ❌ |
+| 👔 | House | Roles | 😃 | 🗣Code Explainer | ⚜️ Leader | 😃 | 😃 | 📣 Reporter | 👀 Evaluator | 🗣Code Explainer | 😃 | 😃 | 😃 | 😃 |
 | 🚦 | 0 | EX 02 | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | ❇️ | * |
 | 1 | 292 | push_swap | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ | ✅ |
 | 2.1 | 268 | pipex | ✅ | ✅ | ✅ | ❌ | ✅ | ❌ | ❌ | ❌ | ✅ | ❌ | 🆚  | ✅ |
@@ -23,7 +23,7 @@
 | 10 | 0 | CPP M 02 | ✅ | ✅ | ✅ | ✅ | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 11 | 0 | CPP M 03 | ✅ | ✅ | ✅ | ✅ | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 12 | 336 | CPP M 04 | ✅ | ✅ | ✅ | ✅ | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
-| 🚦 | 1842 | EX 05 | ❇️ | ❇️ | 🆚 | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
+| 🚦 | 1842 | EX 05 | ❇️ | ❇️ | ❇️ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ | ❌ |
 | 13 | 0 | CPP M 05 | ✅ | ✅ | ✅ | ✅ | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 14 | 0 | CPP M 06 | ✅ | ✅ | ✅ | ✅ | ✅ | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |
 | 15 | 0 | CPP M 07 | ✅ | ✅ | ✅ | ✅ | 🆚 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 | 🌐 |

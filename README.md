@@ -46,17 +46,17 @@
 
 | Activity | Data | 11 | 12 | 13 | 14 | 15 | 16 | 17 | 18 | 19 | 20 | 21 | 22 | 23 | 24 |
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
-| 📣 | Meeting |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 📝 | Evaluations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 🌐 ✅ | Pj/Ex Success |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 📣 | Meeting |  | Opening ceremony |  |  |  |  |  |  |  |  |  |  |  |  |
+| 📝 | Evaluations | apanikov 2️⃣ | apanikov 1️⃣ |  | apanikov 1️⃣ |  |  | mikarzum 2️⃣ | arakhurs 1️⃣ mikarzum 3️⃣ |  |  |  |  | vhovhann 1️⃣ | armartir 1️⃣ |
+| 🌐 ✅ | Pj/Ex Success |  |  |  | apanikov NetPractice |  | vhovhann minishell |  | tyenokya CPP_09 |  |  |  |  | anmanuky fract-ol | vhovhann Ex04 |
+| 🌐 ❌ | Pj/Ex Fails |  | vhovhann minishell |  |  |  |  |  | anmanuky fract-ol |  |  |  |  |  | grmartir Ex03 |
 
 ## Week 25.09-08.10
 
 | Activity | Data | 25 | 26 | 27 | 28 | 29 | 30 | 01 | 02 | 03 | 04 | 05 | 06 | 07 | 08 |
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 📣 | Meeting |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 📝 | Evaluations |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 📝 | Evaluations | vacsargs 1️⃣ |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 🌐 ✅ | Pj/Ex Success |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 

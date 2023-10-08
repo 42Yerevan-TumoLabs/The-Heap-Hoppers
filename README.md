@@ -58,7 +58,7 @@
 | 📣 | Meeting |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
 | 📝 | Evaluations | vacsargs 1️⃣ | vhovhann 1️⃣ |  | vhovhann 1️⃣ |  | vhovhann 2️⃣ armartir 1️⃣ |  | vhovhann 1️⃣ | vhovhann 1️⃣ | vhovhann 1️⃣ arakhurs 1️⃣ |  | vhovhann 1️⃣ arakhurs 1️⃣ |  |  |
 | 🌐 ✅ | Pj/Ex Success |  | arakhurs web_serv |  |  | vhovhann NetPractice | arakhurs inception |  |  | vagevorg/arakhurs web_serv |  |  |  |  |  |
-| 🌐 ❌ | Pj/Ex Fails |  | vacsargs minishell |  |  |  |  |  |  |  |  |  |  |  |  |
+| 🌐 ❌ | Pj/Ex Fails |  | vacsargs minishell |  |  |  |  |  |  |  |  |  |  |  | arakhurs/vagevorg Ex06 |
 
 ## Week 09.10-22.10
 

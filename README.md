@@ -92,9 +92,9 @@
 | Activity | Data | 20 | 21 | 22 | 23 | 24 | 25 | 26 | 27 | 28 | 29 | 30 | 01 | 02 | 03 |
 | :-: | :-----: | :-----: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: | :------: |
 | 📣 | Meeting |  |  |  |  |  |  |  |  |  |  |  |  |  |
-| 📝 | Evaluations | anmanuky 1️⃣ grmartir 1️⃣ mikarzum 1️⃣ |  | apanikov 1️⃣ | apanikov 1️⃣ | mikarzum 1️⃣ armartir 1️⃣ | armartir 1️⃣ |  |  | apanikov 1️⃣ |  |  |  |  |  |
+| 📝 | Evaluations | anmanuky 1️⃣ grmartir 1️⃣ mikarzum 1️⃣ |  | apanikov 1️⃣ | apanikov 1️⃣ | mikarzum 1️⃣ armartir 1️⃣ | armartir 1️⃣ |  |  | apanikov 1️⃣ | arakhurs 1️⃣ | mikarzum 2️⃣ | mikarzum 2️⃣ vhovhann 1️⃣ grmartir 1️⃣ |  | arakhurs 1️⃣ armartir 1️⃣ mikarzum 3️⃣ |
 | 🌐 ✅ | Pj/Ex Success | mikarzum CPP M06 |  | anmanuky Pipex grmartir Philo mikarzum CPP M07 | mikarzum CPP M08 | mikarzum CPP M09 | anmanuky Ex03 |  |  |  |  |  |  |  |  |
-| 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |  |  |  |  |  |  |  |
+| 🌐 ❌ | Pj/Ex Fails |  |  |  |  |  |  |  |  |  |  |  | vacsargs minishell |  |  |
 
 ## Week 04.12-17.12
 
